@@ -1,6 +1,14 @@
 # DinoSmasherRedux
 An enhanced version of Crait's DinoSmasher. Heavily modified by Pharap.
 
+## Licence
+
+Technically I don't have permission to modify DinoSmasher.
+Technically neither does anyone else,  
+because the original code does not have a licence.
+
+See https://choosealicense.com/no-permission/ for more information.
+
 ## Changes
 
 * Better function names
